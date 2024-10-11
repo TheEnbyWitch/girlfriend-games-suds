@@ -2,6 +2,9 @@
 
 ![SUDS Logo](Resources/Icon128.png)
 
+## Fork differences
+- Opt-in support for events without specifying the "event" literal (example: ``[Actor.Emote `Paula`, `Yeah`]``)
+
 ## What Is It?
 
 SUDS is a plugin for [Unreal Engine 5](https://unrealengine.com/) which allows you
